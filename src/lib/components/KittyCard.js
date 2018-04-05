@@ -1,5 +1,4 @@
 import React from "react";
-import kittyPic from "./kitty.jpg";
 import "./KittyCard.css";
 
 const KittyCard = () => (
