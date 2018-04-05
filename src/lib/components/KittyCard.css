@@ -15,8 +15,9 @@
   color: rgb(245, 245, 245);
 }
 .KittyCard-image {
-  max-width: 100%;
-  display: block;
+  background: url('./kitty.jpg') center no-repeat;
+  padding-bottom: 60%;
+  width: 100%;
 }
 .KittyCard-text {
   margin: 0;
